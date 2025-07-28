@@ -1,1 +1,11 @@
 # hands-on-activities
+![image/alt](https://github.com/Angela1410/hands-on-activities/blob/b44e4a5d245df667bfbb5a3a76e6ccabb994af7b/Screenshot%202025-07-28%20100246.png)
+![image/alt](https://github.com/Angela1410/hands-on-activities/blob/6bace05699345bcfb6a5049a8384f1631edb9e2a/Screenshot%202025-07-28%20100302.png)
+![image/alt](https://github.com/Angela1410/hands-on-activities/blob/9073f7df14c010455f0e78692eb66e309885a4a4/Screenshot%202025-07-28%20100324.png)
+![image/alt](https://github.com/Angela1410/hands-on-activities/blob/3932e0ea6465504fd75bee7250b232e8c547f02c/Screenshot%202025-07-28%20100340.png)
+![image/alt](https://github.com/Angela1410/hands-on-activities/blob/83b4512b18c9b71c76b5252c20776e5939a7a0be/Screenshot%202025-07-28%20100355.png)
+![image/alt](https://github.com/Angela1410/hands-on-activities/blob/be9c8f642ab83ff7f422cbbdc79be7957d6a5913/Screenshot%202025-07-28%20100543.png)
+![image/alt](https://github.com/Angela1410/hands-on-activities/blob/a2aad32bdf04081763774b112661d6a16979d72d/Screenshot%202025-07-28%20100559.png)
+![image/alt](https://github.com/Angela1410/hands-on-activities/blob/39f0da2d07b0b1c82e250a29d7a8c9a33c1c1484/Screenshot%202025-07-28%20100623.png)
+![image/alt](https://github.com/Angela1410/hands-on-activities/blob/9a4c890b14392f510338da93c6d434da7f9fe60c/Screenshot%202025-07-28%20100644.png)
+![image/alt](https://github.com/Angela1410/hands-on-activities/blob/70aaa3d944ec51318747e2014de8a1f140c94eda/Screenshot%202025-07-28%20100702.png)
